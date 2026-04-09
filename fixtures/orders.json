@@ -1,0 +1,37 @@
+[
+  {
+    "order_id": "ord-1001",
+    "sku": "SKU-ALPHA",
+    "revenue": 1200.0,
+    "margin": 320.0,
+    "created_at": "2026-04-09T08:00:00+00:00"
+  },
+  {
+    "order_id": "ord-1002",
+    "sku": "SKU-BETA",
+    "revenue": 900.0,
+    "margin": 210.0,
+    "created_at": "2026-04-08T10:15:00+00:00"
+  },
+  {
+    "order_id": "ord-1003",
+    "sku": "SKU-ALPHA",
+    "revenue": 650.0,
+    "margin": 140.0,
+    "created_at": "2026-04-07T12:45:00+00:00"
+  },
+  {
+    "order_id": "ord-1004",
+    "sku": "SKU-GAMMA",
+    "revenue": 500.0,
+    "margin": 110.0,
+    "created_at": "2026-04-05T14:20:00+00:00"
+  },
+  {
+    "order_id": "ord-1005",
+    "sku": "SKU-DELTA",
+    "revenue": 300.0,
+    "margin": 60.0,
+    "created_at": "2026-03-25T09:00:00+00:00"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "AL-1",
+    "title": "Рост возвратов по SKU-ALPHA > 12%",
+    "severity": "high",
+    "status": "active",
+    "reasoning": "На 3 маркетплейсах увеличилась доля возвратов за последние 24 часа.",
+    "expected_impact": "Потенциальное снижение недельной маржи на 3-5%."
+  },
+  {
+    "id": "AL-2",
+    "title": "Падение конверсии checkout > 8%",
+    "severity": "medium",
+    "status": "active",
+    "reasoning": "Конверсия снизилась после релиза платежного сценария.",
+    "expected_impact": "Потеря выручки до 7% в день при сохранении тренда."
+  },
+  {
+    "id": "AL-3",
+    "title": "Задержка поставки SKU-GAMMA",
+    "severity": "low",
+    "status": "resolved",
+    "reasoning": "Поставщик сдвинул отгрузку на 48 часов.",
+    "expected_impact": "Локальный out-of-stock на 1-2 дня."
+  }
+]
